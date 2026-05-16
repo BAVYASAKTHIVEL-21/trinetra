@@ -1,0 +1,11 @@
+{
+  "name": "User",
+  "destination": "Home",
+  "trigger": "timeout",
+  "location": {
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "mapsUrl": "https://maps.google.com/?q=12.9716,77.5946"
+  },
+  "timestamp": "2026-05-14T23:45:00Z"
+}
